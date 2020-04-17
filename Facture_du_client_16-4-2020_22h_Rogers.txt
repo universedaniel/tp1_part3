@@ -1,0 +1,8 @@
+16-4-2020 10:02:22
+*********************
+Nom du Client :  Rogers
+Poutine X1
+Prix par plat : 10.5
+*********************
+Total Partiel : 10.5
+Total 12.07
